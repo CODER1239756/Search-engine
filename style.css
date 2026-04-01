@@ -1,0 +1,43 @@
+
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+      background-image: linear-gradient(to right, rgb(106, 250, 255) , rgb(136, 255, 146));
+    }
+    h1, h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      text-decoration: solid;
+    }
+    h1 {
+      font-size: 3rem;
+      font-weight: bold;
+      color: #333;
+    }
+    h2 {
+      font-size: 2rem;
+      font-weight: normal;
+      color: #666;
+      font-family: 'Courier New', Courier, monospace;
+      
+    }
+    p {
+      line-height: 1.5;
+      margin-bottom: 15px;
+      text-align: justify;
+    }
+    .key-term {
+      font-weight: bold;
+      color: #333;
+    }
+    .quote {
+      font-style: italic;
+    }
+
+    button {
+      border-radius: 15px;
+      background-color: aquamarine;
+      min-height: 100px;
+      max-height: 130px;
+    }
+
